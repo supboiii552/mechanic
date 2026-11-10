@@ -1,0 +1,6 @@
+{
+  "name": "Apex Precision Auto Care",
+  "description": "Full-service mechanical repair, precision diagnostics, and weather-driven automotive health monitoring with instant quote calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
